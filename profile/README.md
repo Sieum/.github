@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
+![시음](https://github.com/Sieum/.github/assets/118112177/8b599e75-f7af-412e-ab58-5767b9c5fe68)
 
 
 <div align="center">
