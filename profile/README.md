@@ -22,8 +22,8 @@
 </div>
 <h3 align="center">Sieum</h3>
 
-## 💻 Service Structure
-
+## 💻 ER Diagram
+![Sieum_ERD](https://github.com/Sieum/.github/assets/118112177/355e3322-6c29-4a94-80fe-6cb77ef84c63)
 
 ## ⚙️ System Architecture
 ![Sieum MSA Architecture Diagram](https://github.com/Sieum/.github/assets/118112177/7c2893b9-f044-43f9-a27e-905c67e6e759)
