@@ -1,4 +1,4 @@
-## Hi there 👋
+## SIEUM
 
 <!--
 
@@ -26,11 +26,12 @@
 
 
 ## ⚙️ System Architecture
-
+![Sieum MSA Architecture Diagram](https://github.com/Sieum/.github/assets/118112177/7c2893b9-f044-43f9-a27e-905c67e6e759)
 
 ## 🤳 Performance Video
 <div align="center">
-
+   <a href="https://youtu.be/YaLW13EywVs" target="_blank">
+   <img src="http://img.youtube.com/vi/YaLW13EywVs/0.jpg"></img>
 </div>
 
 ## 🔧 Skills
@@ -137,5 +138,6 @@
 ## 🎬 Promotional Video
 
 <div align="center">
-
+   <a href="https://youtu.be/Jh-Ylx8jN2I" target="_blank">
+   <img src="http://img.youtube.com/vi/Jh-Ylx8jN2I/0.jpg"></img>
 </div>
